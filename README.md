@@ -1,7 +1,5 @@
 # 🤎 Hi, I'm theremyyy
 
-## 🌼 About Me
-
 Welcome to my GitHub profile! I'm a developer who loves cats, nature, and clean code.
 
 ## 🛠️ Technologies
