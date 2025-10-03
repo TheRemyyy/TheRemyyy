@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a developer who loves cats, nature, and clean 
 ![Java](https://img.shields.io/badge/-Java-8B7355?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-9B8B7E?style=flat-square&logo=kotlin&logoColor=white)
 
-## 📊 GitHub Stats
+## 📦 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theremyyy&show_icons=true&theme=default&title_color=8B4513&text_color=654321&icon_color=DAA520&bg_color=F5F5DC&border_color=D2B48C" alt="GitHub Stats" />
@@ -26,13 +26,13 @@ Welcome to my GitHub profile! I'm a developer who loves cats, nature, and clean 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theremyyy&theme=default&background=F5F5DC&border=D2B48C&stroke=8B4513&ring=DAA520&fire=DAA520&currStreakNum=654321&sideNums=654321&currStreakLabel=8B4513&sideLabels=8B4513&dates=654321" alt="GitHub Streak" />
 </div>
 
-## 🌱 Currently Learning
+## 🍂 Currently Learning
 
 - New frameworks and technologies
 - Best practices in programming
 - Open source contribution
 
-## 📫 Contact
+## 🦦 Contact
 
 - 📧 Email: theremyyy@gmail.com
 - 🎵 TikTok: [@theremyyy_](https://tiktok.com/@theremyyy_)
