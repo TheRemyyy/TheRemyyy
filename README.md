@@ -1,4 +1,4 @@
-# 🤎 Hi, I'm theremyyy
+# 🤎 Hi, I'm TheRemyyy
 
 Welcome to my GitHub profile! I'm a developer who loves cats, nature, and clean code.
 
