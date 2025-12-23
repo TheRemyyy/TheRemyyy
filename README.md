@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a developer who loves nature, clean code, and 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theremyyy&background=d9dea6&border=b2b5a0&stroke=5a5c50&ring=7da068&fire=7da068&currStreakNum=5a5c50&sideNums=5a5c50&currStreakLabel=5a5c50&sideLabels=5a5c50&dates=5a5c50" alt="GitHub Streak" />
 </div>
 
-## � Currently Learning
+## 📗 Currently Learning
 
 - New frameworks and technologies
 - Best practices in programming
