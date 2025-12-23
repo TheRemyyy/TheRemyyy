@@ -18,14 +18,13 @@ Welcome to my GitHub profile! I'm a developer who loves nature, clean code, and 
 ![Java](https://img.shields.io/badge/-Java-b2b5a0?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-d9dea6?style=flat-square&logo=kotlin&logoColor=black)
 
-## 📦 GitHub Stats
+## 📦 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheRemyyy&show_icons=true&title_color=5a5c50&text_color=5a5c50&icon_color=7a8a60&bg_color=d9dea6&border_color=b2b5a0&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRemyyy&layout=compact&title_color=5a5c50&text_color=5a5c50&bg_color=d9dea6&border_color=b2b5a0&hide_border=false" alt="Top Languages" />
+[![GitHub followers](https://img.shields.io/github/followers/TheRemyyy?style=for-the-badge&logo=github&labelColor=d9dea6&color=b2b5a0)](https://github.com/TheRemyyy?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/TheRemyyy?style=for-the-badge&logo=github&labelColor=d9dea6&color=b2b5a0)](https://github.com/TheRemyyy?tab=repositories)
+
 </div>
 
 ## 📗 Currently Learning
