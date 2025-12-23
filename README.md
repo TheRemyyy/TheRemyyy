@@ -18,21 +18,7 @@ Welcome to my GitHub profile! I'm a developer who loves nature, clean code, and 
 ![Java](https://img.shields.io/badge/-Java-b2b5a0?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-d9dea6?style=flat-square&logo=kotlin&logoColor=black)
 
-## 📦 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/TheRemyyy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TheRemyyy&theme=flat&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
-  </a>
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=TheRemyyy&style=flat-square&color=b2b5a0&label=Profile+Views)
-
-</div>
-
-## 📗 Currently Learning
+## Currently Learning
 
 - New frameworks and technologies
 - Best practices in programming
