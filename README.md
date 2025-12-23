@@ -22,9 +22,14 @@ Welcome to my GitHub profile! I'm a developer who loves nature, clean code, and 
 
 <div align="center">
   <a href="https://github.com/TheRemyyy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheRemyyy&show_icons=true&theme=default&title_color=5a5c50&text_color=5a5c50&icon_color=7a8a60&bg_color=d9dea6&border_color=b2b5a0&ring_color=7a8a60&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRemyyy&layout=compact&theme=default&title_color=5a5c50&text_color=5a5c50&bg_color=d9dea6&border_color=b2b5a0"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=TheRemyyy&theme=flat&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
   </a>
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=TheRemyyy&style=flat-square&color=b2b5a0&label=Profile+Views)
+
 </div>
 
 ## 📗 Currently Learning
