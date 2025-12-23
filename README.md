@@ -21,12 +21,11 @@ Welcome to my GitHub profile! I'm a developer who loves nature, clean code, and 
 ## 📦 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheRemyyy&theme=default" alt="GitHub Profile" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheRemyyy&show_icons=true&title_color=5a5c50&text_color=5a5c50&icon_color=7a8a60&bg_color=d9dea6&border_color=b2b5a0&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheRemyyy&theme=default" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheRemyyy&theme=default&utcOffset=1" alt="Commits" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRemyyy&layout=compact&title_color=5a5c50&text_color=5a5c50&bg_color=d9dea6&border_color=b2b5a0&hide_border=false" alt="Top Languages" />
 </div>
 
 ## 📗 Currently Learning
