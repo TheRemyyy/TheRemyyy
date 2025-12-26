@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a developer who loves nature, clean code, and 
 
 ## 🐢 Contact
 
-- 📧 Email: <theremyyy@gmail.com>
+- 📧 Discord: [@theremyyy](https://discord.com/users/1415322747113836645)
 - 🎵 TikTok: [@theremyyy_](https://tiktok.com/@theremyyy_)
 - 📸 Instagram: [@theremyyy_](https://instagram.com/theremyyy_)
 
