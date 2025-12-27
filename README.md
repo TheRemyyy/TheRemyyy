@@ -22,13 +22,6 @@ Welcome to my GitHub profile! I'm a developer who loves nature, clean code, and 
 
 <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=TheRemyyy&show_icons=true&title_color=d9dea6&icon_color=b2b5a0&text_color=ffffff&bg_color=1c1c1c&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=TheRemyyy&layout=compact&title_color=d9dea6&text_color=ffffff&bg_color=1c1c1c&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheRemyyy&theme=dracula" />
-
-### 📈 Activity
-<img src="https://komarev.com/ghpvc/?username=TheRemyyy&color=d9dea6&style=flat-square&label=PROFILE+VIEWS" />
-
 ## Currently Learning
 
 - New frameworks and technologies
