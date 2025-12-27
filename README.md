@@ -20,15 +20,21 @@ Welcome to my GitHub profile! I'm a developer who loves nature, clean code, and 
 
 ## 📊 Statistics
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=TheRemyyy&show_icons=true&title_color=d9dea6&icon_color=b2b5a0&text_color=ffffff&bg_color=1c1c1c&hide_border=true&count_private=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheRemyyy&show_icons=true&title_color=d9dea6&icon_color=b2b5a0&text_color=ffffff&bg_color=1c1c1c&hide_border=true&count_private=true&cache_id=1" alt="Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRemyyy&layout=compact&title_color=d9dea6&text_color=ffffff&bg_color=1c1c1c&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRemyyy&layout=compact&title_color=d9dea6&text_color=ffffff&bg_color=1c1c1c&hide_border=true&cache_id=1" alt="Languages" />
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TheRemyyy&theme=dracula&no-frame=true&column=4&margin-w=15&title_color=d9dea6)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheRemyyy&theme=dracula&no-frame=true&column=4&title_color=d9dea6&cache_id=1" alt="Trophies" />
+</p>
 
 ### 📈 Activity & Reach
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheRemyyy&color=d9dea6&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=TheRemyyy&color=d9dea6&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 
 ## Currently Learning
 
