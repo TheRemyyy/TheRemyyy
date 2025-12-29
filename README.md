@@ -34,6 +34,7 @@ Welcome to my GitHub profile! I'm a developer who loves nature, clean code, and 
 - 🎵 TikTok: [@theremyyy_](https://tiktok.com/@theremyyy_)
 - 📸 Instagram: [@theremyyy_](https://instagram.com/theremyyy_)
 - 🦝 Youtube: [@theremyyy](https://youtube.com/@theremyyy)
+- 🤍 Twitter: [@theremyyy_](https://x.com/TheRemyyy_)
 
 ## 💭 Quote
 
