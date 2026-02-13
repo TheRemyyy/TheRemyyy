@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a developer who loves nature, clean code, and building beautiful web experiences.
 
-> **Portfolio:** [theremyyy.vercel.app](https://theremyyy.dev/)
+> **Portfolio:** [theremyyy.dev](https://theremyyy.dev/)
 
 ## 🛠️ Technologies
 
