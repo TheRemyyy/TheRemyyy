@@ -35,8 +35,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-b2b5a0?style=flat-square&logo=javascript&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-d9dea6?style=flat-square&logo=typescript&logoColor=black)
   ![React](https://img.shields.io/badge/-React-b2b5a0?style=flat-square&logo=react&logoColor=white)
-  ![Rust](https://img.shields.io/badge/-Cybersecurity-d9dea6?style=flat-square&logo=shield&logoColor=black)
-  ![AI](https://img.shields.io/badge/-AI-b2b5a0?style=flat-square&logo=openai&logoColor=white)
+  ![AI](https://img.shields.io/badge/-AI-d9dea6?style=flat-square&logo=openaiinitiative&logoColor=black)
+  ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-b2b5a0?style=flat-square&logo=protonvpn&logoColor=white)
 
   ## Current Focus
 
@@ -47,8 +47,7 @@
 
   ## Statistics
 
-  <img src="https://github-readme-stats-one-zeta.vercel.app/api?
-  username=TheRemyyy&show_icons=true&title_color=d9dea6&icon_color=b2b5a0&text_color=ffffff&bg_color=1c1c1c&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=TheRemyyy&show_icons=true&title_color=d9dea6&icon_color=b2b5a0&text_color=ffffff&bg_color=1c1c1c&hide_border=true&count_private=true" />
 
   ## Contact
 
