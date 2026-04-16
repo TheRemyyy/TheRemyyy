@@ -56,6 +56,7 @@
   - TikTok: [@theremyyy_](https://tiktok.com/@theremyyy_)
   - Instagram: [@theremyyy_](https://instagram.com/theremyyy_)
   - YouTube: [@theremyyy](https://youtube.com/@theremyyy)
+  - Reddit: [theremyyy_](https://www.reddit.com/user/theremyyy_/)
   - X: [@TheRemyyy_](https://x.com/TheRemyyy_)
 
   ## Philosophy
